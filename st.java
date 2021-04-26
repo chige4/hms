@@ -1,0 +1,4 @@
+class st
+{
+bjkcx
+}
